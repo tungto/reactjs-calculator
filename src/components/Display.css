@@ -1,0 +1,8 @@
+#display {
+  display: inline-block;
+  height: 20%;
+  width: 100%;
+  text-align: right;
+  padding: 30px;
+  box-sizing: border-box;
+}

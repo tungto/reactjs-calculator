@@ -1,0 +1,8 @@
+.Calculator {
+  text-align: center;
+  width: 400px;
+  height: 500px;
+  border: 1px solid grey;
+  margin: 150px auto;
+  box-sizing: border-box;
+}
